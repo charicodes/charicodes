@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Charity Samuel</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
-<img align="right" alt="coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*f3BMf7dLxUnJtpXf.gif" />
+<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*f3BMf7dLxUnJtpXf.gif" />
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
