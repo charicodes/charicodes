@@ -12,7 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **Machine Learning and AI** - 💬 Ask me about
-**flask** - 📫 How to reach me **charitysamuelngilu@gmail.com** - ⚡ Fun fact
+**flask** - 📫 How to reach me **charitysamuelngilu@gmail.com** - ⚡Fun fact:
 **I am funny😅**
 
 
