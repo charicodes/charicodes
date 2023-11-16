@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*f3BMf7dLxUnJtpXf.gif"/>
 <img align="left" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*f3BMf7dLxUnJtpXf.gif"/>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **Artificial Intelligence**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
 
 <h3 align="bottom">Languages and Tools:</h3>
