@@ -3,7 +3,7 @@
 - A Machine Learning Engineer</h1>
 
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*f3BMf7dLxUnJtpXf.gif"/>
-<img align="left" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*f3BMf7dLxUnJtpXf.gif"/>
+<img align="left" alt="coding" width="500" src="https://media.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif"/>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
