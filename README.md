@@ -3,7 +3,7 @@
 - A Machine Learning Engineer</h1>
 
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Opencv**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
 
 <h3 align="bottom">Languages and Tools:</h3>
