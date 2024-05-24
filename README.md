@@ -3,7 +3,7 @@
 - A Fullstack Developer</h1>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Socket.IO**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
 
 <h3 align="bottom">Languages and Tools:</h3>
