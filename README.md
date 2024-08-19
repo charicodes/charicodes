@@ -3,7 +3,7 @@
 - A Mernstack Developer</h1>
 
 
-- 🌱 I’m currently learning **Socket.IO**
+- 🌱 I’m currently learning **Laravel**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
 
 <h3 align="bottom">Languages and Tools:</h3>
