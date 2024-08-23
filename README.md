@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55723914-c72b-4229-afd5-e5c9b56358c8" alt="logo" height="100px" width="100px">
+  <img src="https://github.com/user-attachments/assets/55723914-c72b-4229-afd5-e5c9b56358c8" alt="logo" height="180px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Charity Samuel 
