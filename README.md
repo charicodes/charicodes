@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Charity Samuel 
 - A React, Next.js, and MERN Stack Developer</h1>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Mobile app development**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
 
 
