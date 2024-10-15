@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Charity Samuel 
-- A React, Next.js, and MERN Stack Developer</h1>
+- A Frontend/FullStack Developer</h1>
 
 - 🌱 I’m currently learning **Mobile app development**
 - 📫 How to reach me **charitysamuelngilu@gmail.com**
